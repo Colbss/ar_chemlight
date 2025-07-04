@@ -47,7 +47,7 @@
           <AmmoMax100MP value="1" />
           <AmmoFlags>Fuse FixedAfterExplosion</AmmoFlags>
           <Damage value="1.000000" />
-          <LifeTime value="60.000000" />
+          <LifeTime value="100.000000" />
           <FromVehicleLifeTime value="0.000000" /> <!-- 0.0 = Same as above -->
           <LifeTimeAfterImpact value="0.000000" />
           <LifeTimeAfterExplosion value="0.00000" />
@@ -96,7 +96,7 @@
           <CoronaSize value="0.200000" />
           <CoronaIntensity value="10.000000" />
           <CoronaZBias value="0.001000" />
-          <ProjectileFlags>ProcessImpacts NoPullPin</ProjectileFlags>
+          <ProjectileFlags>ProcessImpacts NoPullPin DoubleDamping</ProjectileFlags>
           <UntriggeredProximityLightColour x="0.000000" y="0.000000" z="0.000000" />
           <ThrownForce value="0.000000" />
           <ThrownForceFromVehicle value="5.000000" />
