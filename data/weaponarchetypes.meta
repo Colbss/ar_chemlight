@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+    <InitDatas>
+        
+        <Item>
+          <modelName>w_am_chemlight</modelName>
+          <txdName>w_am_chemlight</txdName>
+          <ptfxAssetName>NULL</ptfxAssetName>
+          <lodDist value="50"/>
+        </Item>
+        
+        
+    </InitDatas>
+</CWeaponModelInfo__InitDataList>
