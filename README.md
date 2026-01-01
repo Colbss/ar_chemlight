@@ -1,13 +1,13 @@
 
 ![Banner](https://raw.githubusercontent.com/gist/Colbss/f3aae2e7e9088456915895bd48713ca7/raw/0a6074c494b85ab4754036cfc01afeeed37dfcc9/ar_banner_chemlight.svg)
 
-Preview available on [streamable](https://streamable.com/sas0ry)
+### Preview
+
+![Preview](https://i.imgur.com/y3aS3pE.jpeg)
 
 ### Requirements
 
-- ox_lib
-- ox_inventory
-- qbx_core (will update later)
+- ox_inventory (can work with any inventory)
 
 ### Install
 
@@ -17,7 +17,7 @@ Preview available on [streamable](https://streamable.com/sas0ry)
 
 ### Known Issues
 
-- Dropping the chem light without aiming causes it to not glow
+- Dropping the chem light without aiming causes it to not glow. Please raise a PR if you know how to fix.
 
 ## License
 

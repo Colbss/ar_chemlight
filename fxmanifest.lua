@@ -2,8 +2,8 @@ fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
 
+description 'Aether Scripts - Chemlight'
 author 'Co1bss'
-description 'Aether Roleplay - Item Throw Prop'
 version '1.0.0'
 
 files {
