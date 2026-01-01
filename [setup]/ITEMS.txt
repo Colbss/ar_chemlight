@@ -1,0 +1,7 @@
+OX INVENTORY ONLY
+
+	['WEAPON_CHEMLIGHT'] = {
+		label = 'Chem Light',
+		weight = 100,
+		throwable = true,
+	},
