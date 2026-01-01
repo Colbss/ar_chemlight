@@ -88,13 +88,13 @@
           <LightFlickers value="false" />
           <LightBone>gun_chem_glow</LightBone>
           <LightColour x="0.48" y="0.87" z="0.29" />
-          <LightIntensity value="4.000000" />
+          <LightIntensity value="8.000000" />
           <LightRange value="5.000000" />
-          <LightFalloffExp value="20.000000" />
+          <LightFalloffExp value="100.000000" />
           <LightFrequency value="0.000000" />
           <LightPower value="10.000000" />
-          <CoronaSize value="0.200000" />
-          <CoronaIntensity value="10.000000" />
+          <CoronaSize value="0.00000" />
+          <CoronaIntensity value="0.000000" />
           <CoronaZBias value="0.001000" />
           <ProjectileFlags>ProcessImpacts NoPullPin DoubleDamping</ProjectileFlags>
           <UntriggeredProximityLightColour x="0.000000" y="0.000000" z="0.000000" />
