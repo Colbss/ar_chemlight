@@ -11,7 +11,7 @@
 
 ### Install
 
-1. Download the latest [release](https://github.com/Colbss/ar_chemlight/releases/tag/Latest)
+1. Download the latest [release](https://github.com/Colbss/ar_chemlight/releases/latest)
 2. Add items under `[SETUP]` to `ox_inventory/data/weapons.lua`
 3. Add images under `[SETUP]` to `ox_inventory/web/images`
 
