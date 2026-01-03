@@ -4,7 +4,7 @@ lua54 'yes'
 
 description 'Aether Scripts - Chemlight'
 author 'Co1bss'
-version '1.0.0'
+version '1.2.0'
 
 files {
 	"data/weaponarchetypes.meta",
