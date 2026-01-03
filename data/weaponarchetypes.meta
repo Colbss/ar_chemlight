@@ -4,8 +4,32 @@
     <InitDatas>
         
         <Item>
-          <modelName>w_am_chemlight</modelName>
-          <txdName>w_am_chemlight</txdName>
+          <modelName>w_am_chemlight_b</modelName>
+          <txdName>w_am_chemlight_b</txdName>
+          <ptfxAssetName>NULL</ptfxAssetName>
+          <lodDist value="50"/>
+        </Item>
+        <Item>
+          <modelName>w_am_chemlight_g</modelName>
+          <txdName>w_am_chemlight_g</txdName>
+          <ptfxAssetName>NULL</ptfxAssetName>
+          <lodDist value="50"/>
+        </Item>
+        <Item>
+          <modelName>w_am_chemlight_p</modelName>
+          <txdName>w_am_chemlight_p</txdName>
+          <ptfxAssetName>NULL</ptfxAssetName>
+          <lodDist value="50"/>
+        </Item>
+        <Item>
+          <modelName>w_am_chemlight_r</modelName>
+          <txdName>w_am_chemlight_r</txdName>
+          <ptfxAssetName>NULL</ptfxAssetName>
+          <lodDist value="50"/>
+        </Item>
+        <Item>
+          <modelName>w_am_chemlight_y</modelName>
+          <txdName>w_am_chemlight_y</txdName>
           <ptfxAssetName>NULL</ptfxAssetName>
           <lodDist value="50"/>
         </Item>

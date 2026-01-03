@@ -3,7 +3,7 @@
 
 ### Preview
 
-![Preview](https://i.imgur.com/y3aS3pE.jpeg)
+![Preview](https://i.imgur.com/c9VIyXM.jpeg)
 
 ### Requirements
 

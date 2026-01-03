@@ -7,7 +7,11 @@
             <UnholsterClips>
                 <Item>
                     <Weapons>
-                        <Item>WEAPON_CHEMLIGHT</Item>
+                        <Item>WEAPON_CHEMLIGHT_B</Item>
+                        <Item>WEAPON_CHEMLIGHT_G</Item>
+                        <Item>WEAPON_CHEMLIGHT_P</Item>
+                        <Item>WEAPON_CHEMLIGHT_R</Item>
+                        <Item>WEAPON_CHEMLIGHT_Y</Item>
                     </Weapons>
                     <Clip>unarmed_holster_unarmed</Clip>
                 </Item>                        
@@ -18,7 +22,11 @@
             <UnholsterClips>
                 <Item>
                     <Weapons>
-                        <Item>WEAPON_CHEMLIGHT</Item>                     
+                        <Item>WEAPON_CHEMLIGHT_B</Item>
+                        <Item>WEAPON_CHEMLIGHT_G</Item>
+                        <Item>WEAPON_CHEMLIGHT_P</Item>
+                        <Item>WEAPON_CHEMLIGHT_R</Item>
+                        <Item>WEAPON_CHEMLIGHT_Y</Item>
                     </Weapons>
                     <Clip>2h_melee_holster_unarmed</Clip>
                 </Item>            
@@ -29,7 +37,11 @@
             <UnholsterClips>
                 <Item>
                     <Weapons>                       
-                        <Item>WEAPON_CHEMLIGHT</Item>
+                        <Item>WEAPON_CHEMLIGHT_B</Item>
+                        <Item>WEAPON_CHEMLIGHT_G</Item>
+                        <Item>WEAPON_CHEMLIGHT_P</Item>
+                        <Item>WEAPON_CHEMLIGHT_R</Item>
+                        <Item>WEAPON_CHEMLIGHT_Y</Item>
                     </Weapons>
                     <Clip>1h_holster_unarmed</Clip>
                 </Item>            
@@ -40,7 +52,11 @@
             <UnholsterClips>
                 <Item>
                     <Weapons>
-                        <Item>WEAPON_CHEMLIGHT</Item>                     
+                        <Item>WEAPON_CHEMLIGHT_B</Item>
+                        <Item>WEAPON_CHEMLIGHT_G</Item>
+                        <Item>WEAPON_CHEMLIGHT_P</Item>
+                        <Item>WEAPON_CHEMLIGHT_R</Item>
+                        <Item>WEAPON_CHEMLIGHT_Y</Item>
                     </Weapons>
                     <Clip>2h_holster_unarmed</Clip>
                 </Item>            
@@ -51,7 +67,11 @@
             <UnholsterClips>
                 <Item>
                     <Weapons>                       
-                        <Item>WEAPON_CHEMLIGHT</Item>
+                        <Item>WEAPON_CHEMLIGHT_B</Item>
+                        <Item>WEAPON_CHEMLIGHT_G</Item>
+                        <Item>WEAPON_CHEMLIGHT_P</Item>
+                        <Item>WEAPON_CHEMLIGHT_R</Item>
+                        <Item>WEAPON_CHEMLIGHT_Y</Item>
                     </Weapons>
                     <Clip>mini_holster_2h_unarmed</Clip>
                 </Item>                     
@@ -62,7 +82,11 @@
             <UnholsterClips>
                 <Item>
                     <Weapons>
-                        <Item>WEAPON_CHEMLIGHT</Item>                     
+                        <Item>WEAPON_CHEMLIGHT_B</Item>
+                        <Item>WEAPON_CHEMLIGHT_G</Item>
+                        <Item>WEAPON_CHEMLIGHT_P</Item>
+                        <Item>WEAPON_CHEMLIGHT_R</Item>
+                        <Item>WEAPON_CHEMLIGHT_Y</Item>
                     </Weapons>
                     <Clip>unarmed_holster_unarmed</Clip>
                 </Item>                     
@@ -73,7 +97,11 @@
             <UnholsterClips>
                 <Item>
                     <Weapons>
-                        <Item>WEAPON_CHEMLIGHT</Item>                     
+                        <Item>WEAPON_CHEMLIGHT_B</Item>
+                        <Item>WEAPON_CHEMLIGHT_G</Item>
+                        <Item>WEAPON_CHEMLIGHT_P</Item>
+                        <Item>WEAPON_CHEMLIGHT_R</Item>
+                        <Item>WEAPON_CHEMLIGHT_Y</Item>
                     </Weapons>
                     <Clip>unarmed_holster_unarmed</Clip>
                 </Item>                      
@@ -84,7 +112,11 @@
             <UnholsterClips>
                 <Item>
                     <Weapons>
-                        <Item>WEAPON_CHEMLIGHT</Item>                     
+                        <Item>WEAPON_CHEMLIGHT_B</Item>
+                        <Item>WEAPON_CHEMLIGHT_G</Item>
+                        <Item>WEAPON_CHEMLIGHT_P</Item>
+                        <Item>WEAPON_CHEMLIGHT_R</Item>
+                        <Item>WEAPON_CHEMLIGHT_Y</Item>
                     </Weapons>
                     <Clip>1h_holster_unarmed</Clip>
                 </Item>         
@@ -95,8 +127,12 @@
             <Name>UNHOLSTER_2H_STEALTH</Name>
             <UnholsterClips>
                 <Item>
-                    <Weapons>                       
-                        <Item>WEAPON_CHEMLIGHT</Item>
+                    <Weapons>
+                        <Item>WEAPON_CHEMLIGHT_B</Item>
+                        <Item>WEAPON_CHEMLIGHT_G</Item>
+                        <Item>WEAPON_CHEMLIGHT_P</Item>
+                        <Item>WEAPON_CHEMLIGHT_R</Item>
+                        <Item>WEAPON_CHEMLIGHT_Y</Item>
                     </Weapons>
                     <Clip>2h_holster_unarmed</Clip>
                 </Item>            
@@ -110,7 +146,11 @@
                 <Item>
                     <Item>
                         <Weapons>                         
-                            <Item>WEAPON_CHEMLIGHT</Item>
+                            <Item>WEAPON_CHEMLIGHT_B</Item>
+                            <Item>WEAPON_CHEMLIGHT_G</Item>
+                            <Item>WEAPON_CHEMLIGHT_P</Item>
+                            <Item>WEAPON_CHEMLIGHT_R</Item>
+                            <Item>WEAPON_CHEMLIGHT_Y</Item>
                         </Weapons>
                         <ClipSets>
                         <Item>
@@ -134,7 +174,11 @@
                 <Item>
                     <Item>
                         <Weapons>                       
-                            <Item>WEAPON_CHEMLIGHT</Item>
+                            <Item>WEAPON_CHEMLIGHT_B</Item>
+                            <Item>WEAPON_CHEMLIGHT_G</Item>
+                            <Item>WEAPON_CHEMLIGHT_P</Item>
+                            <Item>WEAPON_CHEMLIGHT_R</Item>
+                            <Item>WEAPON_CHEMLIGHT_Y</Item>
                         </Weapons>
 						<ClipSets>
 							<Item>
@@ -163,7 +207,11 @@
                 <Item>
                   <Item>
                       <Weapons>
-                          <Item>WEAPON_CHEMLIGHT</Item>
+                            <Item>WEAPON_CHEMLIGHT_B</Item>
+                            <Item>WEAPON_CHEMLIGHT_G</Item>
+                            <Item>WEAPON_CHEMLIGHT_P</Item>
+                            <Item>WEAPON_CHEMLIGHT_R</Item>
+                            <Item>WEAPON_CHEMLIGHT_Y</Item>
                       </Weapons>
                       <ClipSets>
                           <Item>
@@ -187,7 +235,11 @@
                 <Item>
                     <Item>
                         <Weapons>
-                            <Item>WEAPON_CHEMLIGHT</Item>
+                            <Item>WEAPON_CHEMLIGHT_B</Item>
+                            <Item>WEAPON_CHEMLIGHT_G</Item>
+                            <Item>WEAPON_CHEMLIGHT_P</Item>
+                            <Item>WEAPON_CHEMLIGHT_R</Item>
+                            <Item>WEAPON_CHEMLIGHT_Y</Item>
                         </Weapons>
                         <ClipSets>
                             <Item>

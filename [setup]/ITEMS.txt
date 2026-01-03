@@ -1,7 +1,31 @@
 OX INVENTORY ONLY
 
-	['WEAPON_CHEMLIGHT'] = {
-		label = 'Chem Light',
+	['WEAPON_CHEMLIGHT_B'] = {
+		label = 'Blue Chem Light',
+		weight = 100,
+		throwable = true,
+	},
+
+	['WEAPON_CHEMLIGHT_G'] = {
+		label = 'Green Chem Light',
+		weight = 100,
+		throwable = true,
+	},
+
+	['WEAPON_CHEMLIGHT_P'] = {
+		label = 'Purple Chem Light',
+		weight = 100,
+		throwable = true,
+	},
+
+	['WEAPON_CHEMLIGHT_R'] = {
+		label = 'Red Chem Light',
+		weight = 100,
+		throwable = true,
+	},
+
+	['WEAPON_CHEMLIGHT_Y'] = {
+		label = 'Yellow Chem Light',
 		weight = 100,
 		throwable = true,
 	},
